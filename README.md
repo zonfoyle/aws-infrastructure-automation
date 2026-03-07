@@ -1,2 +1,2 @@
 # aws-python
-Python automation with AWS (boto3, Lambda, S3)
+AWS infrastructure automation using Python (boto3): S3, EC2, VPC, and networking.
